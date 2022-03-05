@@ -1,6 +1,5 @@
 
 # Interface with a stock price data feed and, analysis of the data
-<b>Processing the data feed of stock A and stock B’s price to enable us to analyse when trading for the stock should occur</b>
 
 ## Set up / Installation
 <p>To start the server, run</p>
